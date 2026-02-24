@@ -1,4 +1,4 @@
-# 🐊 Swamp Finder (Shrek Edition)
+# Swamp Finder
 
 **"Get out of my swamp!"** - Now you can find your own!
 
